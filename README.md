@@ -2,7 +2,7 @@
 
 👨‍💻 **BTech Undergraduate**  
 🎨 **Graphic Designer**  
-🌱 **Self-learning** Godot, Web Development
+🌱 **Self-learning** Game & Web Dev
 
 ---
 
