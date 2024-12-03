@@ -2,7 +2,7 @@
 
 - 🎓 **BTech Undergraduate**  
 - 🎨 **Graphic Designer**  
-- 🤓 **Self-learning**: Godot, Web Development -currently
+- 🤓 **Self-learning**: Godot, Web Development
 - 🌟 **Enthusiast** exploring tech and design  
 
 ## ⚡ Tools I Use  
