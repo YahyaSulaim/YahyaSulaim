@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yahya Sulaim!
+# Hi, I'm Yahya Sulaim!
 
 - 🎓 **BTech Undergraduate**  
 - 🎨 **Graphic Designer**  
