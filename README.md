@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Yahya Sulaim!
 
-<!--
-**YahyaSulaim/YahyaSulaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **BTech Undergraduate**  
+- 🎨 **Graphic Designer**  
+- 🤓 **Self-learning**: Godot, Web Development  
+- 🌟 **Enthusiast** exploring tech and design  
 
-Here are some ideas to get you started:
+## ⚡ Tools I Use  
+- **Design**: Figma, Canva  
+- **Code**: Git, VS Code, Godot  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Languages  
+- **C**, **Python**, **HTML/CSS/JS**  
+
+Let's create cool things together! 🚀  
