@@ -1,6 +1,6 @@
 # Yahya Sulaim
 
-👨‍💻 **BTech Undergraduate**  
+👨‍💻 **BTech Graduate**  
 🎨 **Graphic Designer**  
 🌱 **Self-learning** Game & Web Dev
 
